@@ -3,12 +3,12 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 galaxy_info:
-  author: Robert Wimmer
+  author: Oneill
   description: Installs kubectl command line utility used to interact with the Kubernetes API Server.
   license: GPLv3
   min_ansible_version: "2.9"
   role_name: kubectl
-  namespace: githubixx
+  namespace: P3X-118
   platforms:
     - name: Ubuntu
       versions:
